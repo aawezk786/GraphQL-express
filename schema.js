@@ -11,9 +11,7 @@ const {
 /*
 // Hardcoded data
 const customers = [
-    {id:'1', name:'Aawez khan', email:'jdoe@gmail.com', age:35},
-    {id:'2', name:'Steve Smith', email:'steve@gmail.com', age:25},
-    {id:'3', name:'Sara Williams', email:'sara@gmail.com', age:32},
+    {id:'1', name:'Aawez khan', email:'aawez@gmail.com', age:21},
 ];
 */
 
